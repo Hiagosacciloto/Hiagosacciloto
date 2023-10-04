@@ -1,4 +1,4 @@
-# Olá, 👋 Sou o Hiago! 
+# Olá, 👋 Eu sou o Hiago! 
 ### Seja Bem-Vindo(a) ao Meu Perfil do GitHub!
 
 Este é meu repositório em Análise de dados e Ciência de dados.
