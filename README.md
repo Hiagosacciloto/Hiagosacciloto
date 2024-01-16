@@ -4,15 +4,16 @@
 Este é meu repositório em Análise de dados e Ciência de dados.
 __________________
 ### 📝 Um pouco sobre mim:
-- 👨🏻‍🎓 Formado em Ciências Econômicas pela PUC-CAMPINAS.
-- 📚 Cursando MBA em Data Science para Negócios e Contabilidade.
-- 📊 Atualmente direcionando meus esforços para o campo da Análise de Dados.
+- 👨🏻‍🎓 Formado em Ciências Econômicas pela PUC-CAMPINAS, e em contabilidade pela Trevisan.
+- 🎓 Especialização em Data Science para Negócios na PUC.
+- 👨‍💻 Trabalhei com auditoria, possibilitando analisar dados principalmente com Excel. 
+- 📚 Participação na Competição Internacional de Negócios "Peak Time 2018", em Riga.
+- 📊 Atualmente focado nas áreas de Análise e Ciência de Dados.
 
 _________________
 ### 🗃️ Guia de Repositórios
-- [Portfólio: Apresento aqui projetos relacionados à análise e ciência de dados que compõem meu portfólio.](https://github.com/Hiagosacciloto/Portfolio)<br/>
-- [Artigos: Compartilho meu conhecimento sobre a área de dados por meio de artigos publicados em plataformas como Medium e LinkedIn.](https://github.com/Hiagosacciloto/Artigos)<br/>
-
+- [**Portfólio**](https://github.com/Hiagosacciloto/Portfolio): Apresento aqui projetos relacionados à análise e ciência de dados que compõem meu portfólio.<br/>
+- [**Artigos**](https://github.com/Hiagosacciloto/Artigos): Compartilho meu conhecimento sobre a área de dados por meio de artigos publicados em plataformas como Medium e LinkedIn.<br/>
 __________
 ### 🌍 Redes
 
