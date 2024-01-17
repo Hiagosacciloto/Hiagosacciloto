@@ -6,7 +6,8 @@ __________________
 ### 📝 Um pouco sobre mim:
 - 👨🏻‍🎓 Formado em Ciências Econômicas pela PUC-CAMPINAS, e em contabilidade pela Trevisan.
 - 🎓 Especialização em Data Science para Negócios na PUC.
-- 👨‍💻 Trabalhei com auditoria, possibilitando analisar dados principalmente com Excel. 
+- 👨‍💻 Trabalhei com auditoria, proporcionando a análise de dados, especialmente no Excel.
+- 🚀 Lifelong Learning
 - 📚 Participação na Competição Internacional de Negócios "Peak Time 2018", em Riga.
 - 📊 Atualmente focado nas áreas de Análise e Ciência de Dados.
 
